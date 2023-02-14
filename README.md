@@ -1,2 +1,2 @@
-# berat
-asdasd
+# BK-BOT
+Botu çalmazsanız sevinirim.
